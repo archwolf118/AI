@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-06-26T08:22:05.791Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" etag="j2N66i9qJ40CmwMGzFup" version="24.6.3" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-01T07:40:37.357Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="-kG5SxxexS6g3wD2B2vM" version="24.6.3" type="github">
   <diagram name="Page-1" id="-htA71h1Tr96a3cRQhLy">
-    <mxGraphModel dx="2066" dy="1119" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="2200" math="0" shadow="0">
+    <mxGraphModel dx="2000" dy="1163" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="2200" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -225,7 +225,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ed-SQ-rJw5sSF_kBK3eb-1" value="智能切片&lt;div&gt;(语义切片模型)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+        <mxCell id="Ed-SQ-rJw5sSF_kBK3eb-1" value="智能切片1&lt;div&gt;(语义切片模型)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="823" y="1720" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vYcKDnQuyrOqiumXNDQ5-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Ed-SQ-rJw5sSF_kBK3eb-3" target="Ed-SQ-rJw5sSF_kBK3eb-1" edge="1">
@@ -234,7 +234,7 @@
         <mxCell id="vYcKDnQuyrOqiumXNDQ5-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Ed-SQ-rJw5sSF_kBK3eb-3" target="oZNvyWcUuNIZvkObHdWT-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Ed-SQ-rJw5sSF_kBK3eb-3" value="目录切片" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+        <mxCell id="Ed-SQ-rJw5sSF_kBK3eb-3" value="目录切片3" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="925" y="1610" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="oZNvyWcUuNIZvkObHdWT-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Ed-SQ-rJw5sSF_kBK3eb-4" target="oZNvyWcUuNIZvkObHdWT-1" edge="1">
@@ -245,7 +245,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ed-SQ-rJw5sSF_kBK3eb-4" value="字数切片" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+        <mxCell id="Ed-SQ-rJw5sSF_kBK3eb-4" value="字数切片2" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="1080" y="1506" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="oZNvyWcUuNIZvkObHdWT-1" value="输出文档切片" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" parent="1" vertex="1">
@@ -299,6 +299,9 @@
         <mxCell id="vYcKDnQuyrOqiumXNDQ5-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="vYcKDnQuyrOqiumXNDQ5-1" target="Ed-SQ-rJw5sSF_kBK3eb-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="3qthffvQLDSlE2BmSQZ0-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="vYcKDnQuyrOqiumXNDQ5-1" target="3qthffvQLDSlE2BmSQZ0-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="vYcKDnQuyrOqiumXNDQ5-1" value="判断切分方式cut_type" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="910" y="1390" width="190" height="60" as="geometry" />
         </mxCell>
@@ -322,6 +325,9 @@
         </mxCell>
         <mxCell id="sv4jQ8neMDPuU1nfps9p-5" value="odf解析" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1045" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3qthffvQLDSlE2BmSQZ0-1" value="按分隔符切分 7" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="1240" y="1506" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
