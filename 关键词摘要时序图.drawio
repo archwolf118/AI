@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" version="24.7.6">
   <diagram name="第 1 页" id="W50Me2v17_l9F1Rr8tnI">
-    <mxGraphModel dx="1002" dy="543" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1055" dy="572" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -16,41 +16,44 @@
         <mxCell id="HrH9pXLMxQuW8AQuO76U-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="HrH9pXLMxQuW8AQuO76U-2" target="HrH9pXLMxQuW8AQuO76U-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HrH9pXLMxQuW8AQuO76U-2" value="问答对" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="HrH9pXLMxQuW8AQuO76U-2" value="问答对" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="210" y="180" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HrH9pXLMxQuW8AQuO76U-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="HrH9pXLMxQuW8AQuO76U-3" target="HrH9pXLMxQuW8AQuO76U-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HrH9pXLMxQuW8AQuO76U-3" value="知识切片" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="HrH9pXLMxQuW8AQuO76U-3" value="知识切片" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="450" y="180" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HrH9pXLMxQuW8AQuO76U-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="HrH9pXLMxQuW8AQuO76U-7" target="HrH9pXLMxQuW8AQuO76U-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HrH9pXLMxQuW8AQuO76U-7" value="问答对prompt" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="HrH9pXLMxQuW8AQuO76U-7" value="问答对prompt" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="210" y="280" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="HrH9pXLMxQuW8AQuO76U-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="HrH9pXLMxQuW8AQuO76U-8" target="HrH9pXLMxQuW8AQuO76U-9">
+        <mxCell id="HrH9pXLMxQuW8AQuO76U-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="HrH9pXLMxQuW8AQuO76U-8" target="HrH9pXLMxQuW8AQuO76U-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HrH9pXLMxQuW8AQuO76U-8" value="知识切片prompt" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="HrH9pXLMxQuW8AQuO76U-8" value="知识切片prompt" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="450" y="280" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HrH9pXLMxQuW8AQuO76U-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="HrH9pXLMxQuW8AQuO76U-9" target="HrH9pXLMxQuW8AQuO76U-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HrH9pXLMxQuW8AQuO76U-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="HrH9pXLMxQuW8AQuO76U-9" target="HrH9pXLMxQuW8AQuO76U-16">
+        <mxCell id="HrH9pXLMxQuW8AQuO76U-9" value="LLM模型" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="210" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HrH9pXLMxQuW8AQuO76U-15" value="问答对抽取结果（关键词、摘要、问答对改写）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="210" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HrH9pXLMxQuW8AQuO76U-16" value="知识切片抽取结果（关键词、摘要、标题）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="451" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HrH9pXLMxQuW8AQuO76U-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="HrH9pXLMxQuW8AQuO76U-20" target="HrH9pXLMxQuW8AQuO76U-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HrH9pXLMxQuW8AQuO76U-9" value="LLM模型" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="330" y="400" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="HrH9pXLMxQuW8AQuO76U-15" value="问答对结果（）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="210" y="500" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="HrH9pXLMxQuW8AQuO76U-16" value="知识切片prompt" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="460" y="500" width="120" height="60" as="geometry" />
+        <mxCell id="HrH9pXLMxQuW8AQuO76U-20" value="LLM模型" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="450" y="400" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
