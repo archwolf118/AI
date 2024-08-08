@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" version="24.7.6">
   <diagram name="第 1 页" id="BBgEHPQNoC2N4WVK9qNN">
-    <mxGraphModel dx="1102" dy="639" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1562" dy="905" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -184,16 +184,16 @@
           <mxGeometry x="782" y="540" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="mp_TRMHKgCI7BymeRQ6v-1" value="用户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="231" y="990" width="120" height="60" as="geometry" />
+          <mxGeometry x="100" y="990" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="mp_TRMHKgCI7BymeRQ6v-2" value="系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="414" y="990" width="120" height="60" as="geometry" />
+          <mxGeometry x="263" y="990" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="mp_TRMHKgCI7BymeRQ6v-3" value="文档解析模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="782" y="990" width="120" height="60" as="geometry" />
+          <mxGeometry x="770" y="990" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="mp_TRMHKgCI7BymeRQ6v-4" value="文档切分模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="960" y="990" width="120" height="60" as="geometry" />
+          <mxGeometry x="950" y="990" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="mp_TRMHKgCI7BymeRQ6v-5" value="QA对解析模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="600" y="990" width="120" height="60" as="geometry" />
@@ -203,14 +203,14 @@
         </mxCell>
         <mxCell id="mp_TRMHKgCI7BymeRQ6v-8" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="290" y="1580" as="sourcePoint" />
-            <mxPoint x="290.38" y="1050" as="targetPoint" />
+            <mxPoint x="159" y="1580" as="sourcePoint" />
+            <mxPoint x="159.38" y="1050" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="mp_TRMHKgCI7BymeRQ6v-9" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1" source="mp_TRMHKgCI7BymeRQ6v-15">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="473.38" y="1580" as="sourcePoint" />
-            <mxPoint x="473.76" y="1050" as="targetPoint" />
+            <mxPoint x="322.38" y="1580" as="sourcePoint" />
+            <mxPoint x="322.76" y="1050" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="mp_TRMHKgCI7BymeRQ6v-10" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
@@ -221,14 +221,14 @@
         </mxCell>
         <mxCell id="mp_TRMHKgCI7BymeRQ6v-11" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="841.37" y="1580" as="sourcePoint" />
-            <mxPoint x="841.75" y="1050" as="targetPoint" />
+            <mxPoint x="829.37" y="1580" as="sourcePoint" />
+            <mxPoint x="829.75" y="1050" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="mp_TRMHKgCI7BymeRQ6v-12" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1019.38" y="1580" as="sourcePoint" />
-            <mxPoint x="1019.76" y="1050" as="targetPoint" />
+            <mxPoint x="1009.38" y="1580" as="sourcePoint" />
+            <mxPoint x="1009.76" y="1050" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="mp_TRMHKgCI7BymeRQ6v-13" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
@@ -241,16 +241,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="mp_TRMHKgCI7BymeRQ6v-14" value="文件地址" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="261" y="1100" width="60" height="60" as="geometry" />
+          <mxGeometry x="130" y="1100" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="mp_TRMHKgCI7BymeRQ6v-16" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1" target="mp_TRMHKgCI7BymeRQ6v-15">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="473.38" y="1580" as="sourcePoint" />
-            <mxPoint x="473.76" y="1050" as="targetPoint" />
+            <mxPoint x="322.38" y="1580" as="sourcePoint" />
+            <mxPoint x="322.76" y="1050" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="mp_TRMHKgCI7BymeRQ6v-15" value="下载" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="1100" width="60" height="60" as="geometry" />
+          <mxGeometry x="289" y="1100" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mp_TRMHKgCI7BymeRQ6v-20" value="系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="990" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
