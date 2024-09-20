@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" version="24.7.15">
   <diagram name="Page-1" id="-htA71h1Tr96a3cRQhLy">
-    <mxGraphModel dx="2045" dy="1107" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="2200" math="0" shadow="0">
+    <mxGraphModel dx="1974" dy="1069" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="2200" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -47,7 +47,7 @@
         <mxCell id="Ed-SQ-rJw5sSF_kBK3eb-4" value="字数切片2" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="964" y="1892" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="oZNvyWcUuNIZvkObHdWT-1" value="输出文档切片" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" parent="1" vertex="1">
+        <mxCell id="oZNvyWcUuNIZvkObHdWT-1" value="输出最终文档切片" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" parent="1" vertex="1">
           <mxGeometry x="809" y="2246" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="vYcKDnQuyrOqiumXNDQ5-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="vYcKDnQuyrOqiumXNDQ5-1" target="bkaWk2kcNXf5rJIzgJEL-1" edge="1">
@@ -55,6 +55,16 @@
         </mxCell>
         <mxCell id="3qthffvQLDSlE2BmSQZ0-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="vYcKDnQuyrOqiumXNDQ5-1" target="3qthffvQLDSlE2BmSQZ0-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MSTHDVz44_8mBMMplQob-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1183.9999999999995" y="1928" as="sourcePoint" />
+            <mxPoint x="868.9655172413795" y="2222" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1184" y="2196" />
+              <mxPoint x="869" y="2196" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="3qthffvQLDSlE2BmSQZ0-1" value="按分隔符切分 7" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="1124" y="1892" width="120" height="60" as="geometry" />
