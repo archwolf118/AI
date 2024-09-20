@@ -4,9 +4,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="MSTHDVz44_8mBMMplQob-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ge70wmvIFARKNY7NQ5G--24" target="Ge70wmvIFARKNY7NQ5G--39">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="Ge70wmvIFARKNY7NQ5G--47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Ge70wmvIFARKNY7NQ5G--39" target="Ge70wmvIFARKNY7NQ5G--45" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -285,6 +282,9 @@
         </mxCell>
         <mxCell id="MSTHDVz44_8mBMMplQob-29" value="chunk服务" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="MSTHDVz44_8mBMMplQob-28">
           <mxGeometry x="30" y="30" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MSTHDVz44_8mBMMplQob-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ge70wmvIFARKNY7NQ5G--24" target="Ge70wmvIFARKNY7NQ5G--39">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
