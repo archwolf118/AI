@@ -19,7 +19,7 @@
         <mxCell id="pU8MznzVKb6HY-WG7ddG-4" value="对方服务用私钥文件加载时间戳文件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="170" y="320" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="pU8MznzVKb6HY-WG7ddG-5" value="对方服务加载秘钥" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="pU8MznzVKb6HY-WG7ddG-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="170" y="420" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
