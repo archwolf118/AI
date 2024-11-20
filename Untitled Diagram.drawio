@@ -32,8 +32,9 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pU8MznzVKb6HY-WG7ddG-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pU8MznzVKb6HY-WG7ddG-8" target="pU8MznzVKb6HY-WG7ddG-17">
+        <mxCell id="pU8MznzVKb6HY-WG7ddG-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pU8MznzVKb6HY-WG7ddG-8">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="570" y="540" as="targetPoint" />
             <Array as="points">
               <mxPoint x="705" y="315" />
               <mxPoint x="705" y="510" />
@@ -57,16 +58,68 @@
         <mxCell id="pU8MznzVKb6HY-WG7ddG-12" value="更新本地加密的pkl文件，该文件记录鉴权服务状态" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="510" y="430" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="pU8MznzVKb6HY-WG7ddG-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="pU8MznzVKb6HY-WG7ddG-17">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="570" y="650" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="pU8MznzVKb6HY-WG7ddG-17" value="获取已调用次数、已使用时间等信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="510" y="540" width="120" height="60" as="geometry" />
+        <mxCell id="pU8MznzVKb6HY-WG7ddG-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pU8MznzVKb6HY-WG7ddG-21" target="pU8MznzVKb6HY-WG7ddG-28">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pU8MznzVKb6HY-WG7ddG-21" value="服务加载完毕" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="510" y="650" width="120" height="60" as="geometry" />
+          <mxGeometry x="510" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pU8MznzVKb6HY-WG7ddG-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="pU8MznzVKb6HY-WG7ddG-23">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="570" y="671" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pU8MznzVKb6HY-WG7ddG-23" value="当有外部请求后" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="656" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pU8MznzVKb6HY-WG7ddG-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="571" y="970" as="targetPoint" />
+            <mxPoint x="571" y="920" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pU8MznzVKb6HY-WG7ddG-33" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="pU8MznzVKb6HY-WG7ddG-31">
+          <mxGeometry x="-0.3268" y="5" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pU8MznzVKb6HY-WG7ddG-37" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="pU8MznzVKb6HY-WG7ddG-31">
+          <mxGeometry x="-0.24" y="4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pU8MznzVKb6HY-WG7ddG-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="pU8MznzVKb6HY-WG7ddG-27">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="740" y="870" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pU8MznzVKb6HY-WG7ddG-38" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="pU8MznzVKb6HY-WG7ddG-32">
+          <mxGeometry x="-0.0548" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pU8MznzVKb6HY-WG7ddG-27" value="判断调用次数是否&lt;div&gt;超限或使用期限是否超时&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="472.5" y="820" width="195" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="pU8MznzVKb6HY-WG7ddG-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pU8MznzVKb6HY-WG7ddG-28" target="pU8MznzVKb6HY-WG7ddG-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pU8MznzVKb6HY-WG7ddG-28" value="查询pkl文件后获取当前鉴权服务状态（已调用次数，授权起始时间）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="730" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pU8MznzVKb6HY-WG7ddG-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="pU8MznzVKb6HY-WG7ddG-34">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="570" y="1070" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pU8MznzVKb6HY-WG7ddG-34" value="更新本地加密的pkl文件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="970" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pU8MznzVKb6HY-WG7ddG-36" value="返回True" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="1070" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pU8MznzVKb6HY-WG7ddG-39" value="返回False" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="740" y="840" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
