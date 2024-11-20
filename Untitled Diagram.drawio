@@ -32,6 +32,20 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="pU8MznzVKb6HY-WG7ddG-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pU8MznzVKb6HY-WG7ddG-8" target="pU8MznzVKb6HY-WG7ddG-17">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="705" y="315" />
+              <mxPoint x="705" y="510" />
+              <mxPoint x="570" y="510" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pU8MznzVKb6HY-WG7ddG-19" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="pU8MznzVKb6HY-WG7ddG-18">
+          <mxGeometry x="-0.4105" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="pU8MznzVKb6HY-WG7ddG-8" value="读取本地加密的pkl文件和根据&lt;div&gt;i&lt;span style=&quot;background-color: initial;&quot;&gt;d号判断是否是新的授权文件&lt;/span&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="455" y="260" width="230" height="110" as="geometry" />
         </mxCell>
@@ -43,7 +57,7 @@
         <mxCell id="pU8MznzVKb6HY-WG7ddG-12" value="更新本地加密的pkl文件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="510" y="430" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="pU8MznzVKb6HY-WG7ddG-17" value="获取调用" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="pU8MznzVKb6HY-WG7ddG-17" value="获取已调用次数、已使用时间等信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="510" y="540" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
