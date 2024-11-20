@@ -8,19 +8,30 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pU8MznzVKb6HY-WG7ddG-1" value="生成公钥和私钥文件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="170" y="70" width="120" height="60" as="geometry" />
+          <mxGeometry x="110" y="150" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="pU8MznzVKb6HY-WG7ddG-2" value="用公钥加密时间戳和调用次数" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="170" y="170" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="pU8MznzVKb6HY-WG7ddG-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pU8MznzVKb6HY-WG7ddG-4" target="pU8MznzVKb6HY-WG7ddG-5">
+        <mxCell id="pU8MznzVKb6HY-WG7ddG-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="pU8MznzVKb6HY-WG7ddG-2" target="pU8MznzVKb6HY-WG7ddG-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="pU8MznzVKb6HY-WG7ddG-4" value="对方服务用私钥文件加载时间戳文件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="170" y="320" width="120" height="60" as="geometry" />
+        <mxCell id="pU8MznzVKb6HY-WG7ddG-2" value="用公钥加密授权文件，该授权文件包含当前时间、使用时间、调用次数" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="250" width="120" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="pU8MznzVKb6HY-WG7ddG-5" value="判断是否是新的私钥文件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="170" y="420" width="120" height="60" as="geometry" />
+        <mxCell id="pU8MznzVKb6HY-WG7ddG-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pU8MznzVKb6HY-WG7ddG-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="570" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pU8MznzVKb6HY-WG7ddG-4" value="对方服务用的授权启动私钥文件加载时间戳文件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pU8MznzVKb6HY-WG7ddG-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="570" y="360" as="targetPoint" />
+            <mxPoint x="570" y="320" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pU8MznzVKb6HY-WG7ddG-8" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="260" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
