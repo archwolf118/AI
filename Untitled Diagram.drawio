@@ -54,7 +54,7 @@
             <mxPoint x="570" y="540" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pU8MznzVKb6HY-WG7ddG-12" value="更新本地加密的pkl文件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="pU8MznzVKb6HY-WG7ddG-12" value="更新本地加密的pkl文件，该文件记录鉴权服务状态" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="510" y="430" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pU8MznzVKb6HY-WG7ddG-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="pU8MznzVKb6HY-WG7ddG-17">
