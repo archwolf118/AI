@@ -4,17 +4,23 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="pU8MznzVKb6HY-WG7ddG-42" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="380" y="120" width="500" height="1040" as="geometry" />
+        </mxCell>
+        <mxCell id="pU8MznzVKb6HY-WG7ddG-40" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=left;" vertex="1" parent="1">
+          <mxGeometry x="80" y="120" width="240" height="280" as="geometry" />
+        </mxCell>
         <mxCell id="pU8MznzVKb6HY-WG7ddG-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pU8MznzVKb6HY-WG7ddG-1" target="pU8MznzVKb6HY-WG7ddG-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pU8MznzVKb6HY-WG7ddG-1" value="生成公钥和私钥文件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="110" y="150" width="120" height="60" as="geometry" />
+          <mxGeometry x="110" y="160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pU8MznzVKb6HY-WG7ddG-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="pU8MznzVKb6HY-WG7ddG-2" target="pU8MznzVKb6HY-WG7ddG-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pU8MznzVKb6HY-WG7ddG-2" value="用公钥加密授权文件，该授权文件包含当前时间、使用时间、调用次数、和授权文件id" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="110" y="250" width="120" height="90" as="geometry" />
+          <mxGeometry x="110" y="260" width="120" height="90" as="geometry" />
         </mxCell>
         <mxCell id="pU8MznzVKb6HY-WG7ddG-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pU8MznzVKb6HY-WG7ddG-4">
           <mxGeometry relative="1" as="geometry">
@@ -120,6 +126,12 @@
         </mxCell>
         <mxCell id="pU8MznzVKb6HY-WG7ddG-39" value="返回False" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="740" y="840" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pU8MznzVKb6HY-WG7ddG-41" value="览智侧" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="70" y="120" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="pU8MznzVKb6HY-WG7ddG-43" value="对方服务器侧" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="740" y="130" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
