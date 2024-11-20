@@ -13,7 +13,7 @@
         <mxCell id="pU8MznzVKb6HY-WG7ddG-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="pU8MznzVKb6HY-WG7ddG-2" target="pU8MznzVKb6HY-WG7ddG-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="pU8MznzVKb6HY-WG7ddG-2" value="用公钥加密授权文件，该授权文件包含当前时间、使用时间、调用次数" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="pU8MznzVKb6HY-WG7ddG-2" value="用公钥加密授权文件，该授权文件包含当前时间、使用时间、调用次数、和授权文件id" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="110" y="250" width="120" height="90" as="geometry" />
         </mxCell>
         <mxCell id="pU8MznzVKb6HY-WG7ddG-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pU8MznzVKb6HY-WG7ddG-4">
@@ -21,17 +21,30 @@
             <mxPoint x="570" y="260" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pU8MznzVKb6HY-WG7ddG-4" value="对方服务用的授权启动私钥文件加载时间戳文件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="pU8MznzVKb6HY-WG7ddG-4" value="鉴权服务使用私钥加载授权文件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="510" y="160" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="pU8MznzVKb6HY-WG7ddG-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="570" y="360" as="targetPoint" />
-            <mxPoint x="570" y="320" as="sourcePoint" />
+        <mxCell id="pU8MznzVKb6HY-WG7ddG-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="pU8MznzVKb6HY-WG7ddG-8" target="pU8MznzVKb6HY-WG7ddG-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pU8MznzVKb6HY-WG7ddG-14" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="pU8MznzVKb6HY-WG7ddG-13">
+          <mxGeometry x="0.0333" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pU8MznzVKb6HY-WG7ddG-8" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="530" y="260" width="80" height="80" as="geometry" />
+        <mxCell id="pU8MznzVKb6HY-WG7ddG-8" value="读取本地加密的pkl文件和根据&lt;div&gt;i&lt;span style=&quot;background-color: initial;&quot;&gt;d号判断是否是新的授权文件&lt;/span&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="455" y="260" width="230" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="pU8MznzVKb6HY-WG7ddG-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="pU8MznzVKb6HY-WG7ddG-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="570" y="540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pU8MznzVKb6HY-WG7ddG-12" value="更新本地加密的pkl文件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pU8MznzVKb6HY-WG7ddG-17" value="获取调用" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="540" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
