@@ -106,16 +106,16 @@
         <mxCell id="RtXTbB7Lo0TBa5nR8TKk-21" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="RtXTbB7Lo0TBa5nR8TKk-39">
           <mxGeometry width="200" height="370" as="geometry" />
         </mxCell>
-        <mxCell id="RtXTbB7Lo0TBa5nR8TKk-1" value="ocr服务(Tensorrt加速)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="RtXTbB7Lo0TBa5nR8TKk-39">
+        <mxCell id="RtXTbB7Lo0TBa5nR8TKk-1" value="ocr服务(Tensorrt加速)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="RtXTbB7Lo0TBa5nR8TKk-39">
           <mxGeometry x="25" y="30" width="150" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="RtXTbB7Lo0TBa5nR8TKk-17" value="ocr服务(Tensorrt加速)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="RtXTbB7Lo0TBa5nR8TKk-39">
+        <mxCell id="RtXTbB7Lo0TBa5nR8TKk-17" value="ocr服务(Tensorrt加速)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="RtXTbB7Lo0TBa5nR8TKk-39">
           <mxGeometry x="25" y="110" width="150" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="RtXTbB7Lo0TBa5nR8TKk-18" value="ocr服务(Tensorrt加速)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="RtXTbB7Lo0TBa5nR8TKk-39">
+        <mxCell id="RtXTbB7Lo0TBa5nR8TKk-18" value="ocr服务(Tensorrt加速)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="RtXTbB7Lo0TBa5nR8TKk-39">
           <mxGeometry x="25" y="190" width="150" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="RtXTbB7Lo0TBa5nR8TKk-19" value="ocr服务(Tensorrt加速)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="RtXTbB7Lo0TBa5nR8TKk-39">
+        <mxCell id="RtXTbB7Lo0TBa5nR8TKk-19" value="ocr服务(Tensorrt加速)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="RtXTbB7Lo0TBa5nR8TKk-39">
           <mxGeometry x="25" y="270" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RtXTbB7Lo0TBa5nR8TKk-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="RtXTbB7Lo0TBa5nR8TKk-21" target="RtXTbB7Lo0TBa5nR8TKk-38">
@@ -152,7 +152,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="RtXTbB7Lo0TBa5nR8TKk-49" value="ocr服务(Tensorrt加速)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="RtXTbB7Lo0TBa5nR8TKk-49" value="ocr服务(Tensorrt加速)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="90" y="440" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RtXTbB7Lo0TBa5nR8TKk-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="RtXTbB7Lo0TBa5nR8TKk-53" target="RtXTbB7Lo0TBa5nR8TKk-54">
