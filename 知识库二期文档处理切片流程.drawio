@@ -5,16 +5,16 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="RtXTbB7Lo0TBa5nR8TKk-1" value="ocr服务(Tensorrt加速)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="580" y="160" width="120" height="60" as="geometry" />
+          <mxGeometry x="580" y="160" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RtXTbB7Lo0TBa5nR8TKk-2" value="ocr服务(Tensorrt加速)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="580" y="240" width="120" height="60" as="geometry" />
+          <mxGeometry x="580" y="240" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RtXTbB7Lo0TBa5nR8TKk-3" value="ocr服务(Tensorrt加速)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="580" y="320" width="120" height="60" as="geometry" />
+          <mxGeometry x="580" y="320" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RtXTbB7Lo0TBa5nR8TKk-4" value="ocr服务(Tensorrt加速)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="580" y="400" width="120" height="60" as="geometry" />
+          <mxGeometry x="580" y="400" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RtXTbB7Lo0TBa5nR8TKk-5" value="文件从cos下载到本地" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="150" y="120" width="120" height="60" as="geometry" />
