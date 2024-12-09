@@ -217,6 +217,9 @@
         <mxCell id="RtXTbB7Lo0TBa5nR8TKk-76" value="智能切片" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-160" y="1170" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="RtXTbB7Lo0TBa5nR8TKk-77" value="按字数切片" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="1170" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
