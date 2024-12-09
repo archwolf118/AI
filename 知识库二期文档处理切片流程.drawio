@@ -208,6 +208,9 @@
         <mxCell id="RtXTbB7Lo0TBa5nR8TKk-70" value="输出切片" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
           <mxGeometry x="-425" y="660" width="120" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="RtXTbB7Lo0TBa5nR8TKk-74" value="输出问答对" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="-620" y="440" width="120" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
