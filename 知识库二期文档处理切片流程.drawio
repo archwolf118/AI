@@ -1,20 +1,14 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" version="24.8.6">
   <diagram name="Page-1" id="OG5igTFn9DnJildyo5yd">
-    <mxGraphModel dx="2000" dy="1163" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2850" dy="1163" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="RtXTbB7Lo0TBa5nR8TKk-21" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="285" width="200" height="370" as="geometry" />
+        </mxCell>
         <mxCell id="RtXTbB7Lo0TBa5nR8TKk-1" value="ocr服务(Tensorrt加速)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="580" y="160" width="150" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="RtXTbB7Lo0TBa5nR8TKk-2" value="ocr服务(Tensorrt加速)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="580" y="240" width="150" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="RtXTbB7Lo0TBa5nR8TKk-3" value="ocr服务(Tensorrt加速)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="580" y="320" width="150" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="RtXTbB7Lo0TBa5nR8TKk-4" value="ocr服务(Tensorrt加速)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="580" y="400" width="150" height="60" as="geometry" />
+          <mxGeometry x="660" y="320" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RtXTbB7Lo0TBa5nR8TKk-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="RtXTbB7Lo0TBa5nR8TKk-5" target="RtXTbB7Lo0TBa5nR8TKk-9">
           <mxGeometry relative="1" as="geometry" />
@@ -31,10 +25,15 @@
           <mxGeometry x="180" y="100" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RtXTbB7Lo0TBa5nR8TKk-7" value="excel" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="20" y="320" width="120" height="60" as="geometry" />
+          <mxGeometry x="-140" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RtXTbB7Lo0TBa5nR8TKk-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="RtXTbB7Lo0TBa5nR8TKk-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="470" y="440" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="RtXTbB7Lo0TBa5nR8TKk-8" value="pdf" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="410" y="320" width="120" height="60" as="geometry" />
+          <mxGeometry x="410" y="340" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RtXTbB7Lo0TBa5nR8TKk-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="RtXTbB7Lo0TBa5nR8TKk-9" target="RtXTbB7Lo0TBa5nR8TKk-8">
           <mxGeometry relative="1" as="geometry" />
@@ -46,6 +45,26 @@
         </mxCell>
         <mxCell id="RtXTbB7Lo0TBa5nR8TKk-9" value="odf" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RtXTbB7Lo0TBa5nR8TKk-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="RtXTbB7Lo0TBa5nR8TKk-15" target="RtXTbB7Lo0TBa5nR8TKk-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RtXTbB7Lo0TBa5nR8TKk-23" value="并发调用" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="RtXTbB7Lo0TBa5nR8TKk-22">
+          <mxGeometry x="-0.18" y="-2" relative="1" as="geometry">
+            <mxPoint y="-12" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RtXTbB7Lo0TBa5nR8TKk-15" value="转图片" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RtXTbB7Lo0TBa5nR8TKk-17" value="ocr服务(Tensorrt加速)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="400" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RtXTbB7Lo0TBa5nR8TKk-18" value="ocr服务(Tensorrt加速)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="480" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RtXTbB7Lo0TBa5nR8TKk-19" value="ocr服务(Tensorrt加速)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="560" width="150" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
