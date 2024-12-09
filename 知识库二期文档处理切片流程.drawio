@@ -16,14 +16,28 @@
         <mxCell id="RtXTbB7Lo0TBa5nR8TKk-4" value="ocr服务(Tensorrt加速)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="580" y="400" width="150" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="RtXTbB7Lo0TBa5nR8TKk-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="RtXTbB7Lo0TBa5nR8TKk-5" target="RtXTbB7Lo0TBa5nR8TKk-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RtXTbB7Lo0TBa5nR8TKk-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="RtXTbB7Lo0TBa5nR8TKk-5" target="RtXTbB7Lo0TBa5nR8TKk-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="255" y="190" />
+              <mxPoint x="470" y="190" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="RtXTbB7Lo0TBa5nR8TKk-5" value="文件从cos下载到本地" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="180" y="100" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RtXTbB7Lo0TBa5nR8TKk-7" value="excel" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="30" y="260" width="120" height="60" as="geometry" />
+          <mxGeometry x="20" y="320" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RtXTbB7Lo0TBa5nR8TKk-8" value="pdf" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="320" width="120" height="60" as="geometry" />
+          <mxGeometry x="410" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RtXTbB7Lo0TBa5nR8TKk-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="RtXTbB7Lo0TBa5nR8TKk-9" target="RtXTbB7Lo0TBa5nR8TKk-8">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RtXTbB7Lo0TBa5nR8TKk-9" value="odf" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="260" width="120" height="60" as="geometry" />
