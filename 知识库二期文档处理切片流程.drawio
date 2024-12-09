@@ -65,8 +65,12 @@
             <mxPoint x="-2" y="-6" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RtXTbB7Lo0TBa5nR8TKk-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="RtXTbB7Lo0TBa5nR8TKk-15" target="RtXTbB7Lo0TBa5nR8TKk-38">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="RtXTbB7Lo0TBa5nR8TKk-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="RtXTbB7Lo0TBa5nR8TKk-78" target="RtXTbB7Lo0TBa5nR8TKk-38">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="330" y="620" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="RtXTbB7Lo0TBa5nR8TKk-15" value="转图片" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="450" y="430" width="120" height="60" as="geometry" />
@@ -97,11 +101,11 @@
         </mxCell>
         <mxCell id="RtXTbB7Lo0TBa5nR8TKk-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="RtXTbB7Lo0TBa5nR8TKk-38">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="330" y="713" as="targetPoint" />
+            <mxPoint x="330" y="753" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="RtXTbB7Lo0TBa5nR8TKk-38" value="文档布局（yolov11）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="270" y="613" width="120" height="60" as="geometry" />
+          <mxGeometry x="270" y="660" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RtXTbB7Lo0TBa5nR8TKk-39" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="643" y="130" width="200" height="370" as="geometry" />
@@ -133,7 +137,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RtXTbB7Lo0TBa5nR8TKk-44" value="表格解析（分有线表格和无线表格）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="270" y="713" width="120" height="60" as="geometry" />
+          <mxGeometry x="270" y="753" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RtXTbB7Lo0TBa5nR8TKk-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="RtXTbB7Lo0TBa5nR8TKk-45" target="RtXTbB7Lo0TBa5nR8TKk-60">
           <mxGeometry relative="1" as="geometry">
@@ -145,13 +149,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="RtXTbB7Lo0TBa5nR8TKk-45" value="阅读顺序(layout-reader&lt;span style=&quot;background-color: initial;&quot;&gt;)&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="270" y="803" width="120" height="60" as="geometry" />
+          <mxGeometry x="270" y="843" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RtXTbB7Lo0TBa5nR8TKk-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="RtXTbB7Lo0TBa5nR8TKk-49" target="RtXTbB7Lo0TBa5nR8TKk-38">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="160" y="530" />
-              <mxPoint x="330" y="530" />
+              <mxPoint x="160" y="620" />
+              <mxPoint x="330" y="620" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -236,9 +240,6 @@
         <mxCell id="RtXTbB7Lo0TBa5nR8TKk-77" value="按字数切片" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="180" y="1100" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="RtXTbB7Lo0TBa5nR8TKk-78" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="470" y="510" width="80" height="80" as="geometry" />
-        </mxCell>
         <mxCell id="RtXTbB7Lo0TBa5nR8TKk-79" value="分隔符切分" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="1100" width="120" height="60" as="geometry" />
         </mxCell>
@@ -268,6 +269,18 @@
         </mxCell>
         <mxCell id="RtXTbB7Lo0TBa5nR8TKk-90" value="表格解析" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-228" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RtXTbB7Lo0TBa5nR8TKk-93" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="RtXTbB7Lo0TBa5nR8TKk-15" target="RtXTbB7Lo0TBa5nR8TKk-78">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="510" y="490" as="sourcePoint" />
+            <mxPoint x="330" y="660" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="510" y="620" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RtXTbB7Lo0TBa5nR8TKk-78" value="可解析图片" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="500" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
