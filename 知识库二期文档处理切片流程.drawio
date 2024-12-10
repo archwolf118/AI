@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" version="25.0.3">
   <diagram name="Page-1" id="OG5igTFn9DnJildyo5yd">
-    <mxGraphModel dx="1517" dy="388" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3203" dy="1368" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -69,35 +69,34 @@
         </mxCell>
         <mxCell id="RtXTbB7Lo0TBa5nR8TKk-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="RtXTbB7Lo0TBa5nR8TKk-38" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="330" y="762" as="targetPoint" />
+            <mxPoint x="282" y="762" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="RtXTbB7Lo0TBa5nR8TKk-38" value="文档布局（yolov11）" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="270" y="669" width="120" height="60" as="geometry" />
+          <mxGeometry x="222" y="669" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RtXTbB7Lo0TBa5nR8TKk-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="RtXTbB7Lo0TBa5nR8TKk-44" target="RtXTbB7Lo0TBa5nR8TKk-45" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RtXTbB7Lo0TBa5nR8TKk-44" value="表格解析（分有线表格和无线表格）" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="270" y="762" width="120" height="60" as="geometry" />
+          <mxGeometry x="222" y="762" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="RtXTbB7Lo0TBa5nR8TKk-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="RtXTbB7Lo0TBa5nR8TKk-45" target="RtXTbB7Lo0TBa5nR8TKk-60" edge="1">
+        <mxCell id="3AyjoxsYyh1oNc-eBWbC-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="RtXTbB7Lo0TBa5nR8TKk-45" target="RtXTbB7Lo0TBa5nR8TKk-60">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="330" y="870" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="330" y="920" />
+              <mxPoint x="282" y="920" />
               <mxPoint x="80" y="920" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="RtXTbB7Lo0TBa5nR8TKk-45" value="阅读顺序(layout-reader&lt;span style=&quot;background-color: initial;&quot;&gt;)&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="270" y="843" width="120" height="60" as="geometry" />
+          <mxGeometry x="222" y="843" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="RtXTbB7Lo0TBa5nR8TKk-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="RtXTbB7Lo0TBa5nR8TKk-49" target="RtXTbB7Lo0TBa5nR8TKk-38" edge="1">
+        <mxCell id="3AyjoxsYyh1oNc-eBWbC-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="RtXTbB7Lo0TBa5nR8TKk-49" target="RtXTbB7Lo0TBa5nR8TKk-38">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="160" y="630" />
-              <mxPoint x="330" y="630" />
+              <mxPoint x="160" y="640" />
+              <mxPoint x="282" y="640" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -238,11 +237,12 @@
         <mxCell id="RtXTbB7Lo0TBa5nR8TKk-78" value="是否可解析pdf" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="375" y="480" width="150" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="3AyjoxsYyh1oNc-eBWbC-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="RtXTbB7Lo0TBa5nR8TKk-101" target="RtXTbB7Lo0TBa5nR8TKk-38">
+        <mxCell id="3AyjoxsYyh1oNc-eBWbC-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="RtXTbB7Lo0TBa5nR8TKk-101" target="RtXTbB7Lo0TBa5nR8TKk-38">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="350" y="660" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="450" y="630" />
-              <mxPoint x="330" y="630" />
+              <mxPoint x="450" y="640" />
+              <mxPoint x="282" y="640" />
             </Array>
           </mxGeometry>
         </mxCell>
