@@ -173,7 +173,7 @@
         <mxCell id="RtXTbB7Lo0TBa5nR8TKk-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="RtXTbB7Lo0TBa5nR8TKk-76" target="RtXTbB7Lo0TBa5nR8TKk-84" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="RtXTbB7Lo0TBa5nR8TKk-76" value="智能切片" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="RtXTbB7Lo0TBa5nR8TKk-76" value="智能切片" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="-191" y="1120" width="84" height="40" as="geometry" />
         </mxCell>
         <mxCell id="RtXTbB7Lo0TBa5nR8TKk-95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="RtXTbB7Lo0TBa5nR8TKk-77" target="RtXTbB7Lo0TBa5nR8TKk-84" edge="1">
