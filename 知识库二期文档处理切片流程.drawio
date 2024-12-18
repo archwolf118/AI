@@ -239,7 +239,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RtXTbB7Lo0TBa5nR8TKk-78" value="是否可解析pdf" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="RtXTbB7Lo0TBa5nR8TKk-78" value="是否可解析pdf" style="rhombus;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="179.5" y="479" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3AyjoxsYyh1oNc-eBWbC-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="RtXTbB7Lo0TBa5nR8TKk-101" target="RtXTbB7Lo0TBa5nR8TKk-38" edge="1">
@@ -254,9 +254,6 @@
         </mxCell>
         <mxCell id="RtXTbB7Lo0TBa5nR8TKk-101" value="直接解析文字" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="198" y="574" width="120" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="RtXTbB7Lo0TBa5nR8TKk-106" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="214" y="479" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vYZcqyXknVkpm-3aWBrF-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="vYZcqyXknVkpm-3aWBrF-1" target="vYZcqyXknVkpm-3aWBrF-15">
           <mxGeometry relative="1" as="geometry">
