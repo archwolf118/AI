@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" version="25.0.3">
   <diagram name="Page-1" id="OG5igTFn9DnJildyo5yd">
-    <mxGraphModel dx="2316" dy="890" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2944" dy="1271" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -70,13 +70,13 @@
         <mxCell id="XGNqnGhdDqpaFF3xvOvD-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="RtXTbB7Lo0TBa5nR8TKk-38" target="RtXTbB7Lo0TBa5nR8TKk-44" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="RtXTbB7Lo0TBa5nR8TKk-38" value="文档布局（yolov11）" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="RtXTbB7Lo0TBa5nR8TKk-38" value="文档布局" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="222" y="669" width="120" height="51" as="geometry" />
         </mxCell>
         <mxCell id="XGNqnGhdDqpaFF3xvOvD-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="RtXTbB7Lo0TBa5nR8TKk-44" target="RtXTbB7Lo0TBa5nR8TKk-45" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="RtXTbB7Lo0TBa5nR8TKk-44" value="表格解析（分有线表格和无线表格）" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="RtXTbB7Lo0TBa5nR8TKk-44" value="表格解析" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="222" y="750" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3AyjoxsYyh1oNc-eBWbC-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="RtXTbB7Lo0TBa5nR8TKk-45" target="RtXTbB7Lo0TBa5nR8TKk-60" edge="1">
@@ -87,7 +87,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="RtXTbB7Lo0TBa5nR8TKk-45" value="阅读顺序(layout-reader&lt;span style=&quot;background-color: initial;&quot;&gt;)&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="RtXTbB7Lo0TBa5nR8TKk-45" value="阅读顺序" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="222" y="840" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3AyjoxsYyh1oNc-eBWbC-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="RtXTbB7Lo0TBa5nR8TKk-49" target="RtXTbB7Lo0TBa5nR8TKk-38" edge="1">
@@ -130,6 +130,9 @@
         <mxCell id="RtXTbB7Lo0TBa5nR8TKk-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="RtXTbB7Lo0TBa5nR8TKk-60" target="RtXTbB7Lo0TBa5nR8TKk-79" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="vYZcqyXknVkpm-3aWBrF-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="RtXTbB7Lo0TBa5nR8TKk-60" target="RtXTbB7Lo0TBa5nR8TKk-76">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="RtXTbB7Lo0TBa5nR8TKk-60" value="chunks" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="20" y="960" width="120" height="60" as="geometry" />
         </mxCell>
@@ -168,9 +171,6 @@
         <mxCell id="RtXTbB7Lo0TBa5nR8TKk-74" value="输出问答对" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" parent="1" vertex="1">
           <mxGeometry x="-745" y="440" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="RtXTbB7Lo0TBa5nR8TKk-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="RtXTbB7Lo0TBa5nR8TKk-75" target="RtXTbB7Lo0TBa5nR8TKk-76" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="RtXTbB7Lo0TBa5nR8TKk-96" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="RtXTbB7Lo0TBa5nR8TKk-75" target="RtXTbB7Lo0TBa5nR8TKk-84" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -181,7 +181,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RtXTbB7Lo0TBa5nR8TKk-76" value="智能切片" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-100" y="1220" width="120" height="40" as="geometry" />
+          <mxGeometry x="-120" y="1100" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="RtXTbB7Lo0TBa5nR8TKk-95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="RtXTbB7Lo0TBa5nR8TKk-77" target="RtXTbB7Lo0TBa5nR8TKk-84" edge="1">
           <mxGeometry relative="1" as="geometry" />
