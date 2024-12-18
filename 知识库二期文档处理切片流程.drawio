@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" version="25.0.3">
   <diagram name="Page-1" id="OG5igTFn9DnJildyo5yd">
-    <mxGraphModel dx="3203" dy="1368" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2316" dy="890" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -67,13 +67,13 @@
         <mxCell id="RtXTbB7Lo0TBa5nR8TKk-27" value="图片" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="100" y="340" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="XGNqnGhdDqpaFF3xvOvD-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="RtXTbB7Lo0TBa5nR8TKk-38" target="RtXTbB7Lo0TBa5nR8TKk-44">
+        <mxCell id="XGNqnGhdDqpaFF3xvOvD-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="RtXTbB7Lo0TBa5nR8TKk-38" target="RtXTbB7Lo0TBa5nR8TKk-44" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RtXTbB7Lo0TBa5nR8TKk-38" value="文档布局（yolov11）" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="222" y="669" width="120" height="51" as="geometry" />
         </mxCell>
-        <mxCell id="XGNqnGhdDqpaFF3xvOvD-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="RtXTbB7Lo0TBa5nR8TKk-44" target="RtXTbB7Lo0TBa5nR8TKk-45">
+        <mxCell id="XGNqnGhdDqpaFF3xvOvD-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="RtXTbB7Lo0TBa5nR8TKk-44" target="RtXTbB7Lo0TBa5nR8TKk-45" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RtXTbB7Lo0TBa5nR8TKk-44" value="表格解析（分有线表格和无线表格）" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -160,10 +160,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RtXTbB7Lo0TBa5nR8TKk-68" value="模版匹配抽取" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-550" y="560" width="120" height="40" as="geometry" />
+          <mxGeometry x="-545" y="770" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="RtXTbB7Lo0TBa5nR8TKk-70" value="输出切片" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" parent="1" vertex="1">
-          <mxGeometry x="-550" y="660" width="120" height="50" as="geometry" />
+          <mxGeometry x="-625" y="670" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="RtXTbB7Lo0TBa5nR8TKk-74" value="输出问答对" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" parent="1" vertex="1">
           <mxGeometry x="-745" y="440" width="120" height="60" as="geometry" />
@@ -249,6 +249,20 @@
         </mxCell>
         <mxCell id="RtXTbB7Lo0TBa5nR8TKk-106" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="320" y="490" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vYZcqyXknVkpm-3aWBrF-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="vYZcqyXknVkpm-3aWBrF-1" target="vYZcqyXknVkpm-3aWBrF-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vYZcqyXknVkpm-3aWBrF-6" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="vYZcqyXknVkpm-3aWBrF-5">
+          <mxGeometry x="-0.1667" y="-3" relative="1" as="geometry">
+            <mxPoint y="-6" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vYZcqyXknVkpm-3aWBrF-1" value="是否模版excel" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-565" y="560" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vYZcqyXknVkpm-3aWBrF-4" value="输出切片" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="-745" y="570" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
