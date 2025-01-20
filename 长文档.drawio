@@ -227,7 +227,7 @@
           <mxGeometry x="960" y="1400" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QdetQ8OkIW_a0XtjmtNp-52" value="清理表格文本，去除style,&amp;lt;p&amp;gt;等标识，只保留tr、td、rowspan、colspan标识" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="960" y="1500" width="130" height="100" as="geometry" />
+          <mxGeometry x="960" y="1500" width="130" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
