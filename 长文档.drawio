@@ -215,8 +215,19 @@
             <mxPoint x="1020" y="1400" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QdetQ8OkIW_a0XtjmtNp-46" value="html文件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="QdetQ8OkIW_a0XtjmtNp-46" value="读取文件内容" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="960" y="1300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QdetQ8OkIW_a0XtjmtNp-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="QdetQ8OkIW_a0XtjmtNp-49">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1020" y="1500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QdetQ8OkIW_a0XtjmtNp-49" value="取出目标文本，目标文本包括[&#39;p&#39;, &#39;h1&#39;, &#39;h2&#39;, &#39;h3&#39;, &#39;h4&#39;, &#39;h5&#39;, &#39;h6&#39;, &#39;li&#39;, &#39;table&#39;, &#39;div&#39;]" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="960" y="1400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QdetQ8OkIW_a0XtjmtNp-52" value="清理表格文本，去除style,&amp;lt;p&amp;gt;等标识，只保留tr、td、rowspan、colspan标识" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="960" y="1500" width="130" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
