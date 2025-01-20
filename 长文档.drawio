@@ -166,7 +166,7 @@
         <mxCell id="QdetQ8OkIW_a0XtjmtNp-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="QdetQ8OkIW_a0XtjmtNp-29" target="QdetQ8OkIW_a0XtjmtNp-30">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="QdetQ8OkIW_a0XtjmtNp-29" value="按预设的字数将非表头一行行拼接到表头后面形成切片" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="QdetQ8OkIW_a0XtjmtNp-29" value="非表头行拼接到表头行后" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="261" y="1700" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QdetQ8OkIW_a0XtjmtNp-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="QdetQ8OkIW_a0XtjmtNp-30">
