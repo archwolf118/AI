@@ -533,6 +533,9 @@
         <mxCell id="QdetQ8OkIW_a0XtjmtNp-215" value="用easyodf读取文字内容" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="2234" y="1353" width="120" height="51" as="geometry" />
         </mxCell>
+        <mxCell id="QdetQ8OkIW_a0XtjmtNp-220" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="QdetQ8OkIW_a0XtjmtNp-216" target="QdetQ8OkIW_a0XtjmtNp-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="QdetQ8OkIW_a0XtjmtNp-216" value="excel文件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="264" y="1060" width="120" height="60" as="geometry" />
         </mxCell>
