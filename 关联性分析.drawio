@@ -8,7 +8,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="NNJObCaBzUD5hOblVh25-1" value="切片服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="100" y="-230" width="120" height="60" as="geometry" />
+          <mxGeometry x="130" y="-230" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NNJObCaBzUD5hOblVh25-5" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
@@ -16,7 +16,10 @@
             <mxPoint x="364" y="-110" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NNJObCaBzUD5hOblVh25-2" value="es" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="NNJObCaBzUD5hOblVh25-8" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="NNJObCaBzUD5hOblVh25-2" target="NNJObCaBzUD5hOblVh25-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NNJObCaBzUD5hOblVh25-2" value="ES" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="-230" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NNJObCaBzUD5hOblVh25-6" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="NNJObCaBzUD5hOblVh25-4" target="NNJObCaBzUD5hOblVh25-2">
@@ -24,6 +27,9 @@
         </mxCell>
         <mxCell id="NNJObCaBzUD5hOblVh25-4" value="关键词、摘要、标题服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="-110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NNJObCaBzUD5hOblVh25-7" value="Milvs向量库" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="-230" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
