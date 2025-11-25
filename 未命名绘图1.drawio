@@ -54,13 +54,11 @@
         <mxCell id="67pqSRjOfvRV4P7EuFQf-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="python-docx识别表格" vertex="1">
           <mxGeometry height="60" width="120" x="310" y="377" as="geometry" />
         </mxCell>
-        <mxCell id="67pqSRjOfvRV4P7EuFQf-14" edge="1" parent="1" source="67pqSRjOfvRV4P7EuFQf-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="420" y="510" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="67pqSRjOfvRV4P7EuFQf-20" edge="1" parent="1" source="67pqSRjOfvRV4P7EuFQf-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="67pqSRjOfvRV4P7EuFQf-12">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="67pqSRjOfvRV4P7EuFQf-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="图片表格识别服务" vertex="1">
-          <mxGeometry height="60" width="120" x="470" y="370" as="geometry" />
+          <mxGeometry height="60" width="120" x="470" y="377" as="geometry" />
         </mxCell>
         <mxCell id="67pqSRjOfvRV4P7EuFQf-15" edge="1" parent="1" source="67pqSRjOfvRV4P7EuFQf-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;">
           <mxGeometry relative="1" as="geometry">
