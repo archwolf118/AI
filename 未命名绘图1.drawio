@@ -26,7 +26,7 @@
         <mxCell id="e9QtQrNWXr_scxiJnKxw-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="doc转docx格式&lt;br&gt;转换服务" vertex="1">
           <mxGeometry height="60" width="120" x="190" y="260" as="geometry" />
         </mxCell>
-        <mxCell id="67pqSRjOfvRV4P7EuFQf-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+        <mxCell id="67pqSRjOfvRV4P7EuFQf-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="cv表格识别模型" vertex="1">
           <mxGeometry height="60" width="120" x="470" y="260" as="geometry" />
         </mxCell>
       </root>
