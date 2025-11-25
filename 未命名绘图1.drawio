@@ -15,7 +15,7 @@
         <mxCell id="67pqSRjOfvRV4P7EuFQf-4" edge="1" parent="1" source="e9QtQrNWXr_scxiJnKxw-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="67pqSRjOfvRV4P7EuFQf-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="67pqSRjOfvRV4P7EuFQf-5" connectable="0" parent="67pqSRjOfvRV4P7EuFQf-4" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="pdf转图片" vertex="1">
+        <mxCell id="67pqSRjOfvRV4P7EuFQf-5" connectable="0" parent="67pqSRjOfvRV4P7EuFQf-4" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="pdf" vertex="1">
           <mxGeometry relative="1" x="0.0818" y="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -23,11 +23,17 @@
         <mxCell id="e9QtQrNWXr_scxiJnKxw-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="文件流" vertex="1">
           <mxGeometry height="60" width="120" x="310" y="140" as="geometry" />
         </mxCell>
+        <mxCell id="67pqSRjOfvRV4P7EuFQf-7" edge="1" parent="1" source="e9QtQrNWXr_scxiJnKxw-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="67pqSRjOfvRV4P7EuFQf-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="e9QtQrNWXr_scxiJnKxw-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="doc转docx格式&lt;br&gt;转换服务" vertex="1">
           <mxGeometry height="60" width="120" x="190" y="260" as="geometry" />
         </mxCell>
-        <mxCell id="67pqSRjOfvRV4P7EuFQf-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="cv表格识别模型" vertex="1">
+        <mxCell id="67pqSRjOfvRV4P7EuFQf-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="pdf转图片" vertex="1">
           <mxGeometry height="60" width="120" x="470" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="67pqSRjOfvRV4P7EuFQf-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="doc转docx格式&lt;br&gt;转换服务" vertex="1">
+          <mxGeometry height="60" width="120" x="294" y="370" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
