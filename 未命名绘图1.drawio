@@ -38,7 +38,7 @@
         <mxCell id="67pqSRjOfvRV4P7EuFQf-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="python-docx识别表格" vertex="1">
           <mxGeometry height="60" width="120" x="294" y="370" as="geometry" />
         </mxCell>
-        <mxCell id="67pqSRjOfvRV4P7EuFQf-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="pdf转图片" vertex="1">
+        <mxCell id="67pqSRjOfvRV4P7EuFQf-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="表格识别模型" vertex="1">
           <mxGeometry height="60" width="120" x="470" y="370" as="geometry" />
         </mxCell>
       </root>
