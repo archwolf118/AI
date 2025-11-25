@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0" version="29.1.1">
   <diagram name="第 1 页" id="G-uk6Tk0bF7tQux3lb4y">
-    <mxGraphModel dx="1034" dy="666" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1034" dy="666" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -20,11 +20,24 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="67pqSRjOfvRV4P7EuFQf-17" edge="1" parent="1" source="e9QtQrNWXr_scxiJnKxw-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="67pqSRjOfvRV4P7EuFQf-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="67pqSRjOfvRV4P7EuFQf-18" connectable="0" parent="67pqSRjOfvRV4P7EuFQf-17" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="docx" vertex="1">
+          <mxGeometry relative="1" x="-0.096" y="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="e9QtQrNWXr_scxiJnKxw-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="文件流" vertex="1">
           <mxGeometry height="60" width="120" x="310" y="140" as="geometry" />
         </mxCell>
         <mxCell id="67pqSRjOfvRV4P7EuFQf-7" edge="1" parent="1" source="e9QtQrNWXr_scxiJnKxw-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="67pqSRjOfvRV4P7EuFQf-6">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="67pqSRjOfvRV4P7EuFQf-19" connectable="0" parent="67pqSRjOfvRV4P7EuFQf-7" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="docx" vertex="1">
+          <mxGeometry relative="1" x="-0.0565" y="1" as="geometry">
+            <mxPoint x="1" y="1" as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="e9QtQrNWXr_scxiJnKxw-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="doc转docx格式&lt;br&gt;转换服务" vertex="1">
           <mxGeometry height="60" width="120" x="190" y="260" as="geometry" />
@@ -35,11 +48,30 @@
         <mxCell id="67pqSRjOfvRV4P7EuFQf-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="pdf转图片" vertex="1">
           <mxGeometry height="60" width="120" x="470" y="260" as="geometry" />
         </mxCell>
+        <mxCell id="67pqSRjOfvRV4P7EuFQf-13" edge="1" parent="1" source="67pqSRjOfvRV4P7EuFQf-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="67pqSRjOfvRV4P7EuFQf-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="67pqSRjOfvRV4P7EuFQf-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="python-docx识别表格" vertex="1">
-          <mxGeometry height="60" width="120" x="294" y="370" as="geometry" />
+          <mxGeometry height="60" width="120" x="310" y="377" as="geometry" />
+        </mxCell>
+        <mxCell id="67pqSRjOfvRV4P7EuFQf-14" edge="1" parent="1" source="67pqSRjOfvRV4P7EuFQf-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="420" y="510" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="67pqSRjOfvRV4P7EuFQf-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="图片表格识别服务" vertex="1">
           <mxGeometry height="60" width="120" x="470" y="370" as="geometry" />
+        </mxCell>
+        <mxCell id="67pqSRjOfvRV4P7EuFQf-15" edge="1" parent="1" source="67pqSRjOfvRV4P7EuFQf-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="420" y="600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="67pqSRjOfvRV4P7EuFQf-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="合并跨页表格" vertex="1">
+          <mxGeometry height="60" width="120" x="360" y="510" as="geometry" />
+        </mxCell>
+        <mxCell id="67pqSRjOfvRV4P7EuFQf-16" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="表格结构化输出" vertex="1">
+          <mxGeometry height="60" width="120" x="360" y="600" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
