@@ -10,8 +10,8 @@
         <mxCell id="-kTRr_L67B6kAHbKx0HL-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="text_data&lt;br&gt;{}" vertex="1">
           <mxGeometry height="60" width="120" x="330" y="70" as="geometry" />
         </mxCell>
-        <mxCell id="-kTRr_L67B6kAHbKx0HL-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="图片" vertex="1">
-          <mxGeometry height="60" width="120" x="330" y="470" as="geometry" />
+        <mxCell id="-kTRr_L67B6kAHbKx0HL-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="表格图片1+表格内ocr结果1&lt;br&gt;表格图片2+表格内ocr结果2&lt;br&gt;表格图片1+表格内ocr结果3&lt;br&gt;.&lt;div&gt;.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="90" width="170" x="305" y="470" as="geometry" />
         </mxCell>
         <mxCell id="-kTRr_L67B6kAHbKx0HL-9" edge="1" parent="1" source="-kTRr_L67B6kAHbKx0HL-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="-kTRr_L67B6kAHbKx0HL-8">
           <mxGeometry relative="1" as="geometry" />
