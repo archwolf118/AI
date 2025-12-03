@@ -149,6 +149,14 @@
         <mxCell id="-kTRr_L67B6kAHbKx0HL-66" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="列处理" vertex="1">
           <mxGeometry height="60" width="120" x="1270" y="525" as="geometry" />
         </mxCell>
+        <mxCell id="-kTRr_L67B6kAHbKx0HL-73" edge="1" parent="1" source="-kTRr_L67B6kAHbKx0HL-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="-kTRr_L67B6kAHbKx0HL-62">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1330" y="820" />
+              <mxPoint x="1120" y="820" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="-kTRr_L67B6kAHbKx0HL-67" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="合并单元格处理" vertex="1">
           <mxGeometry height="60" width="120" x="1270" y="620" as="geometry" />
         </mxCell>
