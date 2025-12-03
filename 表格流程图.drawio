@@ -10,27 +10,34 @@
         <mxCell id="-kTRr_L67B6kAHbKx0HL-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="text_data&lt;br&gt;{}" vertex="1">
           <mxGeometry height="60" width="120" x="330" y="70" as="geometry" />
         </mxCell>
-        <mxCell id="-kTRr_L67B6kAHbKx0HL-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="60" width="120" x="60" y="90" as="geometry" />
-        </mxCell>
-        <mxCell id="-kTRr_L67B6kAHbKx0HL-5" edge="1" parent="1" source="-kTRr_L67B6kAHbKx0HL-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="390" y="310" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="-kTRr_L67B6kAHbKx0HL-6" connectable="0" parent="-kTRr_L67B6kAHbKx0HL-5" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="否" vertex="1">
-          <mxGeometry relative="1" x="0.1333" y="2" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
+        <mxCell id="-kTRr_L67B6kAHbKx0HL-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="图片" vertex="1">
+          <mxGeometry height="60" width="120" x="330" y="470" as="geometry" />
         </mxCell>
         <mxCell id="-kTRr_L67B6kAHbKx0HL-9" edge="1" parent="1" source="-kTRr_L67B6kAHbKx0HL-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="-kTRr_L67B6kAHbKx0HL-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-kTRr_L67B6kAHbKx0HL-10" connectable="0" parent="-kTRr_L67B6kAHbKx0HL-9" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="是" vertex="1">
+          <mxGeometry relative="1" x="-0.3576" y="1" as="geometry">
+            <mxPoint y="-9" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-kTRr_L67B6kAHbKx0HL-18" edge="1" parent="1" source="-kTRr_L67B6kAHbKx0HL-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="-kTRr_L67B6kAHbKx0HL-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-kTRr_L67B6kAHbKx0HL-3" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="是否走透视" vertex="1">
           <mxGeometry height="80" width="150" x="315" y="170" as="geometry" />
         </mxCell>
-        <mxCell id="-kTRr_L67B6kAHbKx0HL-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="角点检测" vertex="1">
-          <mxGeometry height="60" width="120" x="510" y="270" as="geometry" />
+        <mxCell id="-kTRr_L67B6kAHbKx0HL-14" edge="1" parent="1" source="-kTRr_L67B6kAHbKx0HL-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="-kTRr_L67B6kAHbKx0HL-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-kTRr_L67B6kAHbKx0HL-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="角点检测/mask检测" vertex="1">
+          <mxGeometry height="60" width="120" x="540" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="-kTRr_L67B6kAHbKx0HL-17" edge="1" parent="1" source="-kTRr_L67B6kAHbKx0HL-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="-kTRr_L67B6kAHbKx0HL-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-kTRr_L67B6kAHbKx0HL-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="表格透视变换&lt;br&gt;文字条透视变换" vertex="1">
+          <mxGeometry height="60" width="120" x="540" y="330" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
