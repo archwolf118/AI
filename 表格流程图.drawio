@@ -93,14 +93,31 @@
         <mxCell id="-kTRr_L67B6kAHbKx0HL-48" edge="1" parent="1" source="-kTRr_L67B6kAHbKx0HL-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="-kTRr_L67B6kAHbKx0HL-44">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-kTRr_L67B6kAHbKx0HL-43" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="行列检测" vertex="1">
+        <mxCell id="-kTRr_L67B6kAHbKx0HL-43" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="行、列、合并单元格检测" vertex="1">
           <mxGeometry height="60" width="120" x="1060" y="330" as="geometry" />
         </mxCell>
-        <mxCell id="-kTRr_L67B6kAHbKx0HL-44" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+        <mxCell id="-kTRr_L67B6kAHbKx0HL-50" edge="1" parent="1" source="-kTRr_L67B6kAHbKx0HL-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="-kTRr_L67B6kAHbKx0HL-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-kTRr_L67B6kAHbKx0HL-44" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="行处理" vertex="1">
           <mxGeometry height="60" width="120" x="1060" y="430" as="geometry" />
         </mxCell>
-        <mxCell id="-kTRr_L67B6kAHbKx0HL-45" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="60" width="120" x="1270" y="330" as="geometry" />
+        <mxCell id="-kTRr_L67B6kAHbKx0HL-52" edge="1" parent="1" source="-kTRr_L67B6kAHbKx0HL-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="-kTRr_L67B6kAHbKx0HL-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-kTRr_L67B6kAHbKx0HL-45" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="列处理" vertex="1">
+          <mxGeometry height="60" width="120" x="1060" y="525" as="geometry" />
+        </mxCell>
+        <mxCell id="-kTRr_L67B6kAHbKx0HL-53" edge="1" parent="1" source="-kTRr_L67B6kAHbKx0HL-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1119.7619047619046" y="720" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-kTRr_L67B6kAHbKx0HL-51" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="合并单元格处理" vertex="1">
+          <mxGeometry height="60" width="120" x="1060" y="620" as="geometry" />
+        </mxCell>
+        <mxCell id="-kTRr_L67B6kAHbKx0HL-54" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="输出html" vertex="1">
+          <mxGeometry height="60" width="120" x="1060" y="720" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
