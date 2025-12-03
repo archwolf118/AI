@@ -75,8 +75,11 @@
         <mxCell id="-kTRr_L67B6kAHbKx0HL-32" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="是否走透视" vertex="1">
           <mxGeometry height="80" width="150" x="315" y="800" as="geometry" />
         </mxCell>
+        <mxCell id="-kTRr_L67B6kAHbKx0HL-41" edge="1" parent="1" source="-kTRr_L67B6kAHbKx0HL-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="-kTRr_L67B6kAHbKx0HL-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="-kTRr_L67B6kAHbKx0HL-34" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="cell还原" vertex="1">
-          <mxGeometry height="60" width="120" x="520" y="880" as="geometry" />
+          <mxGeometry height="60" width="120" x="520" y="870" as="geometry" />
         </mxCell>
         <mxCell id="-kTRr_L67B6kAHbKx0HL-36" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="返回结果" vertex="1">
           <mxGeometry height="60" width="120" x="330" y="980" as="geometry" />
