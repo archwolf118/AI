@@ -108,16 +108,34 @@
         <mxCell id="-kTRr_L67B6kAHbKx0HL-45" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="列处理" vertex="1">
           <mxGeometry height="60" width="120" x="1060" y="525" as="geometry" />
         </mxCell>
-        <mxCell id="-kTRr_L67B6kAHbKx0HL-53" edge="1" parent="1" source="-kTRr_L67B6kAHbKx0HL-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1119.7619047619046" y="720" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="-kTRr_L67B6kAHbKx0HL-57" edge="1" parent="1" source="-kTRr_L67B6kAHbKx0HL-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="-kTRr_L67B6kAHbKx0HL-55">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-kTRr_L67B6kAHbKx0HL-51" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="合并单元格处理" vertex="1">
           <mxGeometry height="60" width="120" x="1060" y="620" as="geometry" />
         </mxCell>
-        <mxCell id="-kTRr_L67B6kAHbKx0HL-54" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="输出html" vertex="1">
-          <mxGeometry height="60" width="120" x="1060" y="720" as="geometry" />
+        <mxCell id="-kTRr_L67B6kAHbKx0HL-59" edge="1" parent="1" source="-kTRr_L67B6kAHbKx0HL-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="-kTRr_L67B6kAHbKx0HL-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-kTRr_L67B6kAHbKx0HL-60" connectable="0" parent="-kTRr_L67B6kAHbKx0HL-59" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="是" vertex="1">
+          <mxGeometry relative="1" x="0.0108" as="geometry">
+            <mxPoint y="-15" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-kTRr_L67B6kAHbKx0HL-64" edge="1" parent="1" source="-kTRr_L67B6kAHbKx0HL-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="-kTRr_L67B6kAHbKx0HL-62">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-kTRr_L67B6kAHbKx0HL-55" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="行数*列数&amp;lt;100&lt;br&gt;且合并单元格&amp;gt;=3" vertex="1">
+          <mxGeometry height="90" width="150" x="1045" y="710" as="geometry" />
+        </mxCell>
+        <mxCell id="-kTRr_L67B6kAHbKx0HL-63" edge="1" parent="1" source="-kTRr_L67B6kAHbKx0HL-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="-kTRr_L67B6kAHbKx0HL-62">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-kTRr_L67B6kAHbKx0HL-58" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="有线单元格检测" vertex="1">
+          <mxGeometry height="60" width="120" x="1270" y="725" as="geometry" />
+        </mxCell>
+        <mxCell id="-kTRr_L67B6kAHbKx0HL-62" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="合并单元格处理" vertex="1">
+          <mxGeometry height="60" width="120" x="1060" y="900" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
