@@ -37,11 +37,30 @@
         <mxCell id="mRUTx2UPnuKogI9yiLkt-10" value="向量库" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="475" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="mRUTx2UPnuKogI9yiLkt-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="mRUTx2UPnuKogI9yiLkt-13" target="mRUTx2UPnuKogI9yiLkt-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mRUTx2UPnuKogI9yiLkt-16" value="主动" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="mRUTx2UPnuKogI9yiLkt-15">
+          <mxGeometry x="-0.1645" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mRUTx2UPnuKogI9yiLkt-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="mRUTx2UPnuKogI9yiLkt-13" target="mRUTx2UPnuKogI9yiLkt-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mRUTx2UPnuKogI9yiLkt-19" value="被动" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="mRUTx2UPnuKogI9yiLkt-18">
+          <mxGeometry x="0.0962" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="mRUTx2UPnuKogI9yiLkt-13" value="用户上传《投后管理方案》" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="540" y="60" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="mRUTx2UPnuKogI9yiLkt-14" value="推荐相关条款与案例供参考" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="540" y="160" width="120" height="60" as="geometry" />
+          <mxGeometry x="440" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mRUTx2UPnuKogI9yiLkt-17" value="推荐相关条款与案例供参考" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="220" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
