@@ -56,6 +56,14 @@
         <mxCell id="mRUTx2UPnuKogI9yiLkt-13" value="用户上传《投后管理方案》" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="540" y="60" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="mRUTx2UPnuKogI9yiLkt-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="mRUTx2UPnuKogI9yiLkt-14" target="mRUTx2UPnuKogI9yiLkt-24">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="500" y="450" />
+              <mxPoint x="600" y="450" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="mRUTx2UPnuKogI9yiLkt-14" value="推荐相关条款与案例供参考" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="220" width="120" height="60" as="geometry" />
         </mxCell>
@@ -65,8 +73,25 @@
         <mxCell id="mRUTx2UPnuKogI9yiLkt-17" value="用户提问" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="640" y="220" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="mRUTx2UPnuKogI9yiLkt-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="mRUTx2UPnuKogI9yiLkt-20" target="mRUTx2UPnuKogI9yiLkt-24">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="700" y="450" />
+              <mxPoint x="600" y="450" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="mRUTx2UPnuKogI9yiLkt-20" value="推荐相关条款与案例供参考" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="640" y="330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mRUTx2UPnuKogI9yiLkt-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="mRUTx2UPnuKogI9yiLkt-24" target="mRUTx2UPnuKogI9yiLkt-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mRUTx2UPnuKogI9yiLkt-24" value="用户确认采纳的评审意见" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mRUTx2UPnuKogI9yiLkt-28" value="用户下载采纳的评审意见" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="650" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
