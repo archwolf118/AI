@@ -59,8 +59,14 @@
         <mxCell id="mRUTx2UPnuKogI9yiLkt-14" value="推荐相关条款与案例供参考" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="220" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="mRUTx2UPnuKogI9yiLkt-17" value="推荐相关条款与案例供参考" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="mRUTx2UPnuKogI9yiLkt-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="mRUTx2UPnuKogI9yiLkt-17" target="mRUTx2UPnuKogI9yiLkt-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mRUTx2UPnuKogI9yiLkt-17" value="用户提问" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="640" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mRUTx2UPnuKogI9yiLkt-20" value="推荐相关条款与案例供参考" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="330" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
