@@ -147,6 +147,27 @@
         <mxCell id="mRUTx2UPnuKogI9yiLkt-51" value="新知识入库" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="570" y="710" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="mRUTx2UPnuKogI9yiLkt-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="mRUTx2UPnuKogI9yiLkt-52" target="mRUTx2UPnuKogI9yiLkt-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mRUTx2UPnuKogI9yiLkt-52" value="用户在交互界面提问" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="850" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mRUTx2UPnuKogI9yiLkt-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="mRUTx2UPnuKogI9yiLkt-53" target="mRUTx2UPnuKogI9yiLkt-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mRUTx2UPnuKogI9yiLkt-53" value="数据库搜索" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="850" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mRUTx2UPnuKogI9yiLkt-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="mRUTx2UPnuKogI9yiLkt-54" target="mRUTx2UPnuKogI9yiLkt-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mRUTx2UPnuKogI9yiLkt-54" value="LLM大模型摘要生成" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="850" y="570" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mRUTx2UPnuKogI9yiLkt-58" value="交互反馈" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="850" y="660" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
