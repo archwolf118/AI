@@ -186,14 +186,14 @@
         <mxCell id="jo4CctnbkpS7IVeiBmpk-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="文档解析服务" vertex="1">
           <mxGeometry height="60" width="120" x="-580" y="890" as="geometry" />
         </mxCell>
-        <mxCell id="jo4CctnbkpS7IVeiBmpk-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="知识库构建智能体" vertex="1">
+        <mxCell id="jo4CctnbkpS7IVeiBmpk-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="知识构建智能体" vertex="1">
           <mxGeometry height="60" width="120" x="-580" y="970" as="geometry" />
         </mxCell>
         <mxCell id="jo4CctnbkpS7IVeiBmpk-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="知识库管理智能体" vertex="1">
           <mxGeometry height="60" width="120" x="-740" y="970" as="geometry" />
         </mxCell>
-        <mxCell id="jo4CctnbkpS7IVeiBmpk-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="知识库管理智能体" vertex="1">
-          <mxGeometry height="60" width="120" x="-413" y="970" as="geometry" />
+        <mxCell id="jo4CctnbkpS7IVeiBmpk-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="检索推荐智能体" vertex="1">
+          <mxGeometry height="60" width="120" x="-420" y="970" as="geometry" />
         </mxCell>
         <mxCell id="jo4CctnbkpS7IVeiBmpk-15" parent="1" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" value="智能体和服务协调层" vertex="1">
           <mxGeometry height="40" width="100" x="-827" y="880" as="geometry" />
