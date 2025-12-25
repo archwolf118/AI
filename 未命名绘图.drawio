@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" version="29.2.9">
   <diagram name="第 1 页" id="Y9iYekgd-3Kj6gccNQ83">
-    <mxGraphModel dx="3138" dy="855" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2380" dy="428" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -304,11 +304,35 @@
         <mxCell id="jo4CctnbkpS7IVeiBmpk-63" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="向量库" vertex="1">
           <mxGeometry height="60" width="120" x="-377" y="555" as="geometry" />
         </mxCell>
+        <mxCell id="jo4CctnbkpS7IVeiBmpk-73" edge="1" parent="1" source="jo4CctnbkpS7IVeiBmpk-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="jo4CctnbkpS7IVeiBmpk-68">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="jo4CctnbkpS7IVeiBmpk-67" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="触发" vertex="1">
-          <mxGeometry height="60" width="120" x="198" y="800" as="geometry" />
+          <mxGeometry height="60" width="120" x="61" y="687" as="geometry" />
+        </mxCell>
+        <mxCell id="jo4CctnbkpS7IVeiBmpk-74" edge="1" parent="1" source="jo4CctnbkpS7IVeiBmpk-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="jo4CctnbkpS7IVeiBmpk-70">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="jo4CctnbkpS7IVeiBmpk-68" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="抽取" vertex="1">
-          <mxGeometry height="60" width="120" x="198" y="897" as="geometry" />
+          <mxGeometry height="60" width="120" x="61" y="784" as="geometry" />
+        </mxCell>
+        <mxCell id="jo4CctnbkpS7IVeiBmpk-75" edge="1" parent="1" source="jo4CctnbkpS7IVeiBmpk-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="jo4CctnbkpS7IVeiBmpk-71">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jo4CctnbkpS7IVeiBmpk-70" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="消歧" vertex="1">
+          <mxGeometry height="60" width="120" x="61" y="884" as="geometry" />
+        </mxCell>
+        <mxCell id="jo4CctnbkpS7IVeiBmpk-76" edge="1" parent="1" source="jo4CctnbkpS7IVeiBmpk-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="jo4CctnbkpS7IVeiBmpk-72">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jo4CctnbkpS7IVeiBmpk-71" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="审核" vertex="1">
+          <mxGeometry height="60" width="120" x="61" y="974" as="geometry" />
+        </mxCell>
+        <mxCell id="jo4CctnbkpS7IVeiBmpk-72" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="更新" vertex="1">
+          <mxGeometry height="60" width="120" x="61" y="1070" as="geometry" />
+        </mxCell>
+        <mxCell id="jo4CctnbkpS7IVeiBmpk-77" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="60" width="120" x="354" y="788" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
