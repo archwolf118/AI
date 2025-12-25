@@ -307,6 +307,9 @@
         <mxCell id="jo4CctnbkpS7IVeiBmpk-67" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="触发" vertex="1">
           <mxGeometry height="60" width="120" x="198" y="800" as="geometry" />
         </mxCell>
+        <mxCell id="jo4CctnbkpS7IVeiBmpk-68" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="抽取" vertex="1">
+          <mxGeometry height="60" width="120" x="198" y="897" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
