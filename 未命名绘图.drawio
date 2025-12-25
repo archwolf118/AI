@@ -219,8 +219,14 @@
         <mxCell id="jo4CctnbkpS7IVeiBmpk-25" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" value="数据查询智能体" vertex="1">
           <mxGeometry height="60" width="120" x="-415" y="937" as="geometry" />
         </mxCell>
+        <mxCell id="jo4CctnbkpS7IVeiBmpk-28" edge="1" parent="1" source="jo4CctnbkpS7IVeiBmpk-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="jo4CctnbkpS7IVeiBmpk-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="jo4CctnbkpS7IVeiBmpk-26" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="docx，pdf，excel，图片等数据" vertex="1">
           <mxGeometry height="60" width="120" x="-1136" y="122" as="geometry" />
+        </mxCell>
+        <mxCell id="jo4CctnbkpS7IVeiBmpk-27" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="60" width="120" x="-1136" y="223" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
