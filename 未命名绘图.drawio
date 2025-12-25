@@ -201,6 +201,18 @@
         <mxCell id="jo4CctnbkpS7IVeiBmpk-18" parent="1" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" value="数据存储层" vertex="1">
           <mxGeometry height="40" width="100" x="-870" y="1080" as="geometry" />
         </mxCell>
+        <mxCell id="jo4CctnbkpS7IVeiBmpk-19" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="原始文档库" vertex="1">
+          <mxGeometry height="60" width="120" x="-870" y="1150" as="geometry" />
+        </mxCell>
+        <mxCell id="jo4CctnbkpS7IVeiBmpk-20" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="向量知识库" vertex="1">
+          <mxGeometry height="60" width="120" x="-710" y="1150" as="geometry" />
+        </mxCell>
+        <mxCell id="jo4CctnbkpS7IVeiBmpk-21" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="结构化知识库" vertex="1">
+          <mxGeometry height="60" width="120" x="-550" y="1150" as="geometry" />
+        </mxCell>
+        <mxCell id="jo4CctnbkpS7IVeiBmpk-22" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="sql" vertex="1">
+          <mxGeometry height="60" width="120" x="-400" y="1150" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
