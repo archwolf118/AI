@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" version="29.2.9">
   <diagram name="第 1 页" id="Y9iYekgd-3Kj6gccNQ83">
-    <mxGraphModel dx="2597" dy="520" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2297" dy="811" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -169,7 +169,7 @@
           <mxGeometry height="40" width="100" x="-890" y="630" as="geometry" />
         </mxCell>
         <mxCell id="jo4CctnbkpS7IVeiBmpk-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;" value="" vertex="1">
-          <mxGeometry height="100" width="660" x="-910" y="750" as="geometry" />
+          <mxGeometry height="100" width="650" x="-910" y="750" as="geometry" />
         </mxCell>
         <mxCell id="jo4CctnbkpS7IVeiBmpk-6" parent="1" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" value="智能体协调层" vertex="1">
           <mxGeometry height="40" width="100" x="-870" y="760" as="geometry" />
@@ -181,7 +181,7 @@
           <mxGeometry height="60" width="120" x="-540" y="770" as="geometry" />
         </mxCell>
         <mxCell id="jo4CctnbkpS7IVeiBmpk-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;" value="" vertex="1">
-          <mxGeometry height="170" width="650" x="-905" y="870" as="geometry" />
+          <mxGeometry height="170" width="650" x="-910" y="870" as="geometry" />
         </mxCell>
         <mxCell id="jo4CctnbkpS7IVeiBmpk-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="文档解析服务" vertex="1">
           <mxGeometry height="60" width="120" x="-580" y="890" as="geometry" />
