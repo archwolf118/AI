@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="jo4CctnbkpS7IVeiBmpk-14" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;" value="" vertex="1">
-          <mxGeometry height="170" width="650" x="-910" y="1140" as="geometry" />
+          <mxGeometry height="170" width="650" x="-905" y="1070" as="geometry" />
         </mxCell>
         <mxCell id="jo4CctnbkpS7IVeiBmpk-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;" value="" vertex="1">
           <mxGeometry height="110" width="650" x="-910" y="620" as="geometry" />
@@ -169,7 +169,7 @@
           <mxGeometry height="40" width="100" x="-890" y="630" as="geometry" />
         </mxCell>
         <mxCell id="jo4CctnbkpS7IVeiBmpk-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;" value="" vertex="1">
-          <mxGeometry height="140" width="660" x="-910" y="750" as="geometry" />
+          <mxGeometry height="100" width="660" x="-910" y="750" as="geometry" />
         </mxCell>
         <mxCell id="jo4CctnbkpS7IVeiBmpk-6" parent="1" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" value="智能体协调层" vertex="1">
           <mxGeometry height="40" width="100" x="-870" y="760" as="geometry" />
@@ -181,22 +181,22 @@
           <mxGeometry height="60" width="120" x="-540" y="770" as="geometry" />
         </mxCell>
         <mxCell id="jo4CctnbkpS7IVeiBmpk-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;" value="" vertex="1">
-          <mxGeometry height="170" width="650" x="-910" y="950" as="geometry" />
+          <mxGeometry height="170" width="650" x="-905" y="870" as="geometry" />
         </mxCell>
         <mxCell id="jo4CctnbkpS7IVeiBmpk-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="文档解析服务" vertex="1">
-          <mxGeometry height="60" width="120" x="-560" y="960" as="geometry" />
+          <mxGeometry height="60" width="120" x="-580" y="890" as="geometry" />
         </mxCell>
         <mxCell id="jo4CctnbkpS7IVeiBmpk-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="知识库构建智能体" vertex="1">
-          <mxGeometry height="60" width="120" x="-560" y="1040" as="geometry" />
+          <mxGeometry height="60" width="120" x="-580" y="970" as="geometry" />
         </mxCell>
         <mxCell id="jo4CctnbkpS7IVeiBmpk-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="知识库管理智能体" vertex="1">
-          <mxGeometry height="60" width="120" x="-710" y="1040" as="geometry" />
+          <mxGeometry height="60" width="120" x="-740" y="970" as="geometry" />
         </mxCell>
         <mxCell id="jo4CctnbkpS7IVeiBmpk-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="知识库管理智能体" vertex="1">
-          <mxGeometry height="60" width="120" x="-400" y="1040" as="geometry" />
+          <mxGeometry height="60" width="120" x="-413" y="970" as="geometry" />
         </mxCell>
         <mxCell id="jo4CctnbkpS7IVeiBmpk-15" parent="1" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" value="智能体和服务协调层" vertex="1">
-          <mxGeometry height="40" width="100" x="-830" y="960" as="geometry" />
+          <mxGeometry height="40" width="100" x="-827" y="880" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
