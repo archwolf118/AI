@@ -334,6 +334,9 @@
         <mxCell id="XQuVJzN5tgnNaPRJEMUg-99" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
           <mxGeometry height="60" width="120" x="2195" y="919" as="geometry" />
         </mxCell>
+        <mxCell id="XQuVJzN5tgnNaPRJEMUg-102" edge="1" parent="1" source="XQuVJzN5tgnNaPRJEMUg-100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="XQuVJzN5tgnNaPRJEMUg-101">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="XQuVJzN5tgnNaPRJEMUg-100" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="数据源输入" vertex="1">
           <mxGeometry height="60" width="120" x="150" y="327" as="geometry" />
         </mxCell>
