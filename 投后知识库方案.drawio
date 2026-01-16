@@ -340,8 +340,26 @@
         <mxCell id="XQuVJzN5tgnNaPRJEMUg-100" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="数据源输入" vertex="1">
           <mxGeometry height="60" width="120" x="150" y="327" as="geometry" />
         </mxCell>
+        <mxCell id="XQuVJzN5tgnNaPRJEMUg-104" edge="1" parent="1" source="XQuVJzN5tgnNaPRJEMUg-101" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="XQuVJzN5tgnNaPRJEMUg-103">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="XQuVJzN5tgnNaPRJEMUg-101" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="数据清洗与处理" vertex="1">
           <mxGeometry height="60" width="120" x="150" y="429" as="geometry" />
+        </mxCell>
+        <mxCell id="XQuVJzN5tgnNaPRJEMUg-106" edge="1" parent="1" source="XQuVJzN5tgnNaPRJEMUg-103" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="XQuVJzN5tgnNaPRJEMUg-105">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XQuVJzN5tgnNaPRJEMUg-103" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;span&gt;完整性检查及交叉比对验证&lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="150" y="525" as="geometry" />
+        </mxCell>
+        <mxCell id="XQuVJzN5tgnNaPRJEMUg-108" edge="1" parent="1" source="XQuVJzN5tgnNaPRJEMUg-105" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="XQuVJzN5tgnNaPRJEMUg-107">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XQuVJzN5tgnNaPRJEMUg-105" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="知识审核" vertex="1">
+          <mxGeometry height="60" width="120" x="150" y="626" as="geometry" />
+        </mxCell>
+        <mxCell id="XQuVJzN5tgnNaPRJEMUg-107" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="入库" vertex="1">
+          <mxGeometry height="60" width="120" x="150" y="721" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
